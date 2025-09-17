@@ -1,1 +1,3 @@
 updated 2nd file
+newadd
+newtext
