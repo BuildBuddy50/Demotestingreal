@@ -1,3 +1,7 @@
 updated 2nd file
 newadd
 newtext
+newadd 2nd file 
+check1
+chekc2
+
